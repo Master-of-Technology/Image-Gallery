@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\bin\Debug\ImageShowing.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\bin\Debug\ImageShowing.exe
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\bin\Debug\ImageShowing.pdb
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.exe
+c:\users\dell\documents\visual studio 2012\Projects\ImageShowing\ImageShowing\obj\Debug\ImageShowing.pdb
